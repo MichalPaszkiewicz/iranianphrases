@@ -3,13 +3,13 @@ iranian phrases for the workplace
 
 chatori 			- how are you?
 
-chi kar ba			- how is it going?
+Che Khabar?			- how is it going?
 
 chi kar kardi		- what have you done?
 
 chi kar mikoni		- what are you doing?
 
-chi jelafa toe		- how dare you?
+Che Jelafata		- how dare you?
 
 ye lah ze			- in a moment
 
