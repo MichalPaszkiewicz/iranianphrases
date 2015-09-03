@@ -11,6 +11,8 @@ chi kar kardi		- what have you done?
 
 chi kar mikoni		- what are you doing?
 
+hitchi			- nothing
+
 Che Jelafata		- how dare you?
 
 ye lah ze			- in a moment
