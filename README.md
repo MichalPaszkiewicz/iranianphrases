@@ -3,6 +3,8 @@ iranian phrases for the workplace
 
 Sobh bekheir!			- Good morning!
 
+khodofez		- goodbye
+
 chatori 			- how are you?
 
 Che Khabar?			- how is it going?
