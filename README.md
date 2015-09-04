@@ -7,9 +7,17 @@ khodofez		- goodbye
 
 chatori 			- how are you?
 
+khubi?				- good?
+
+khubam				- good
+
+khubam to chatori?		- I'm good, how are you?
+
 Che Khabar?			- how is it going?
 
 chi kar kardi		- what have you done?
+
+chi kar kardam		- what have I done?
 
 chi kar mikoni		- what are you doing?
 
