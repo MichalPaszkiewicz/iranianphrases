@@ -11,9 +11,13 @@ khubi?				- good?
 
 khubam				- good
 
+badam				- bad
+
 dA-ghAn				- terrible
 
 dA-ghUn				- terrible (Tehrani)
+
+harobam				- terrible (I'm feeling terrible)
 
 khubam to chatori?		- I'm good, how are you?
 
