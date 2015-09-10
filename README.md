@@ -13,6 +13,8 @@ khubam				- good
 
 badam				- bad
 
+badnaboshe?			- I hope nothing bad happened to you?
+
 dA-ghAn				- terrible
 
 dA-ghUn				- terrible (Tehrani)
