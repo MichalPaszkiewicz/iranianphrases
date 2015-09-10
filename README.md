@@ -5,21 +5,21 @@ Sobh bekheir!			- Good morning!
 
 khodofez		- goodbye
 
-chatori 			- how are you?
+chetori 			- how are you?
 
-khubi?				- good?
+khubi?				- Are you ok?
 
-khubam				- good
+khubam				- I'm good
 
-badam				- bad
+badam				- I'm bad
 
-badnaboshe?			- I hope nothing bad happened to you?
+bad naboshe?			- I hope nothing bad happened to you?
 
 dA-ghAn				- terrible
 
 dA-ghUn				- terrible (Tehrani)
 
-harobam				- terrible (I'm feeling terrible)
+Kharabam				- terrible (I'm feeling terrible)
 
 khubam to chatori?		- I'm good, how are you?
 
@@ -31,7 +31,7 @@ chi kar kardam		- what have I done?
 
 chi kar mikoni		- what are you doing?
 
-hitchi			- nothing
+hichi			- nothing
 
 Che Jelafata		- how dare you?
 
