@@ -35,6 +35,8 @@ hichi			- nothing
 
 Che Jelafata		- how dare you?
 
+ey kalak		- you smart boy (when someone done something clever and mischievous)
+
 ye lah ze			- in a moment
 
 na to eshtebah mikoni							- no, you are wrong
