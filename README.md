@@ -42,3 +42,5 @@ ye lah ze			- in a moment
 na to eshtebah mikoni							- no, you are wrong
 					
 Sag e man az in behtar cod minevise 			- my dog writes better code than this
+
+boro kena			- get out of my way!
