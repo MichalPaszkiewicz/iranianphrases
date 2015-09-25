@@ -44,3 +44,5 @@ na to eshtebah mikoni							- no, you are wrong
 Sag e man az in behtar cod minevise 			- my dog writes better code than this
 
 boro kena			- get out of my way!
+
+koza shta mesh ruye *server*	- I put it on the *server* (deployed)
